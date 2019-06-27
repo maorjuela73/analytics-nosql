@@ -1,0 +1,12 @@
+{
+  "apellido": "Mendez",
+  "nombre": "Pedro",
+  "telefonos": [
+    {
+      "casa": "+852 1234 5678"
+    },
+    {
+      "oficina": "+852 4321 0987"
+    }
+  ]
+}
